@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758556934904",
+    "firebase_url": "https://aula-2b2b1.firebaseio.com",
+    "project_id": "aula-2b2b1",
+    "storage_bucket": "aula-2b2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758556934904:android:6000e32ccecd8b0f",
+        "android_client_info": {
+          "package_name": "aulabd.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758556934904-dpqkr6ti4ieilg1k9dss37u2st484ef6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8mBsUJZVhJFTSyrib2gzhBMZWtJLpTOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758556934904-dpqkr6ti4ieilg1k9dss37u2st484ef6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
